@@ -2,13 +2,13 @@
 
 ```
 ╔═══════════════════════════════════════════════════════════════╗
-║  ░█▀▀░█▀█░█▀▀░█▀▀░█░█░░░█▀▀░█▀█░█▀▄░█▀█░                   ║
-║  ░▀▀█░█▀▀░█▀▀░█░░░░█░░░░█░░░█░█░█▀▄░█▀▀░                   ║
-║  ░▀▀▀░▀░░░▀▀▀░▀▀▀░░▀░░░░▀▀▀░▀▀▀░▀░▀░▀░░░                   ║
+║  ░█▀▀░█▀█░█▀▀░█▀▀░█░█░░░█▀▀░█▀█░█▀▄░█▀█░                      ║
+║  ░▀▀█░█▀▀░█▀▀░█░░░░█░░░░█░░░█░█░█▀▄░█▀▀░                      ║
+║  ░▀▀▀░▀░░░▀▀▀░▀▀▀░░▀░░░░▀▀▀░▀▀▀░▀░▀░▀░░░                      ║
 ╚═══════════════════════════════════════════════════════════════╝
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=./init+specyfikation.exe;%3E+Software+Developer+%2F%2F+Open+Source;%3E+Building+tools+in+the+dark...;%3E+Always+learning%2C+always+shipping.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=./init+specyfikation.exe;%3E+Software+Developer+%2F%2F+Open+Source;%3E+Building+tools+in+the+dark...;%3E+Always+learning%2C+always+shipping.)](https://git.io/typing-svg)
 
 [![X](https://img.shields.io/badge/%40specyfikation-000000?style=for-the-badge&logo=x&logoColor=00FF41)](https://x.com/specyfikation)
 [![GitHub](https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=00FF41)](https://github.com/specyfikation)
@@ -23,22 +23,19 @@
 
 ```python
 #!/usr/bin/env python3
-# -- specyfikation :: profile.py --
+# ── specyfikation :: profile.py ──────────────────────────────
 
 class Developer:
-    def __init__(self):
-        self.alias    = "Spεcy"
-        self.location = "Bordeciel // cyberspace"
-        self.role     = "Software Developer"
-        self.focus    = ["Developer Tools", "APIs", "Infrastructure"]
-        self.status   = "[ACTIVE] building cool stuff in the open"
-        self.os       = "Linux > *"
+    alias    = "Spεcy"
+    location = "Bordeciel // cyberspace"
+    role     = "Software Developer"
+    focus    = ["Developer Tools", "APIs", "Infrastructure"]
+    status   = "[ACTIVE] building cool stuff in the open"
 
     def connect(self):
         return ">> handshake established. welcome."
 
-spεcy = Developer()
-print(spεcy.connect())
+print(Developer().connect())
 ```
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -78,13 +75,25 @@ print(spεcy.connect())
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+## `> TERMINAL.SESSION --replay`
+
+<div align="center">
+
+[![terminal](https://raw.githubusercontent.com/specyfikation/specyfikation/main/terminal.svg)](https://github.com/specyfikation)
+
+</div>
+
+> **Note :** Pour afficher le terminal animé, génère le SVG avec [svg-term-cli](https://github.com/marionebl/svg-term-cli) et pousse `terminal.svg` à la racine du repo `specyfikation/specyfikation`.
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <div align="center">
 
 ```
 ╔══════════════════════════════════════════╗
 ║  >> open to collabs & wild projects      ║
 ║  >> ping me on X @specyfikation          ║
-║  >> [CONNECTION OPEN]  ░░░░░░░░░░ 100%  ║
+║  >> [CONNECTION OPEN]  ░░░░░░░░░░ 100%   ║
 ╚══════════════════════════════════════════╝
 ```
 
