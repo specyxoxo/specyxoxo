@@ -2,9 +2,9 @@
 
 ```
 ╔═══════════════════════════════════════════════════════════════╗
-║  ░█▀▀░█▀█░█▀▀░█▀▀░█░█░░░█▀▀░█▀█░█▀▄░█▀█░                      ║
-║  ░▀▀█░█▀▀░█▀▀░█░░░░█░░░░█░░░█░█░█▀▄░█▀▀░                      ║
-║  ░▀▀▀░▀░░░▀▀▀░▀▀▀░░▀░░░░▀▀▀░▀▀▀░▀░▀░▀░░░                      ║
+║  ░      █▀▀░█▀█░█▀▀░█▀▀░█░█░░░█▀▀░█▀█░█▀▄░█▀█░                ║
+║     ░   ▀▀█░█▀▀░█▀▀░█░░░░█░░░░█░░░█░█░█▀▄░█▀▀░                ║
+║     ░   ▀▀▀░▀░░░▀▀▀░▀▀▀░░▀░░░░▀▀▀░▀▀▀░▀░▀░▀░░░                ║
 ╚═══════════════════════════════════════════════════════════════╝
 ```
 
@@ -59,9 +59,11 @@ print(Developer().connect())
 
 <div align="center">
 
-![Stats](https://github-readme-stats-eight-liart.vercel.app/api?username=specyfikation&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF&include_all_commits=true&count_private=true&theme=dark&rank_icon=github)
+[![GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=specyfikation&theme=chartreuse_dark)](https://github.com/specyfikation)
 
-![Langs](https://github-readme-stats-eight-liart.vercel.app/api/top-langs/?username=specyfikation&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF&theme=dark&langs_count=6)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=specyfikation&theme=chartreuse_dark" width="49%" /><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=specyfikation&theme=chartreuse_dark" width="49%" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=specyfikation&theme=chartreuse_dark" width="49%" /><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=specyfikation&theme=chartreuse_dark&utcOffset=1" width="49%" />
 
 ![Streak](https://streak-stats.demolab.com?user=specyfikation&theme=dark&hide_border=true&background=0D1117&ring=00FF41&fire=FF003C&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&stroke=00FF4133)
 
