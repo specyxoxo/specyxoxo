@@ -10,7 +10,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=specyfikation%40github+~+%24;%3E+Software+Developer+%2F%2F+Open+Source;%3E+Building+tools+in+the+dark...;%3E+Always+learning%2C+always+shipping.)](https://git.io/typing-svg)
 
-[![X](https://img.shields.io/badge/%40specyonx-000000?style=for-the-badge&logo=x&logoColor=FFFFFF)](https://x.com/specyonx)
+[![X](https://img.shields.io/badge/%40specyxoxo-000000?style=for-the-badge&logo=x&logoColor=FFFFFF)](https://x.com/specyxoxo)
 [![GitHub](https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/specyfikation)
 
 </div>
