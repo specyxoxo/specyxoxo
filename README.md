@@ -11,7 +11,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=specyxoxo%40github+~+%24;%3E+Software+Developer+%2F%2F+Open+Source;%3E+Building+tools+in+the+dark...;%3E+Always+learning%2C+always+shipping.)](https://git.io/typing-svg)
 
 [![X](https://img.shields.io/badge/%40specyxoxo-000000?style=for-the-badge&logo=x&logoColor=FFFFFF)](https://x.com/specyxoxo)
-[![GitHub](https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/specyfikation)
+[![GitHub](https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/specyxoxo)
 
 </div>
 
@@ -59,15 +59,15 @@ print(Developer().connect())
 
 <div align="center">
 
-[![GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=specyfikation&theme=github_dark)](https://github.com/specyfikation)
+[![GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=specyxoxo&theme=github_dark)](https://github.com/specyxoxo)
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=specyfikation&theme=github_dark" width="49%" /><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=specyfikation&theme=github_dark" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=specyxoxo&theme=github_dark" width="49%" /><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=specyxoxo&theme=github_dark" width="49%" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=specyfikation&theme=github_dark" width="49%" /><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=specyfikation&theme=github_dark&utcOffset=1" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=specyxoxo&theme=github_dark" width="49%" /><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=specyxoxo&theme=github_dark&utcOffset=1" width="49%" />
 
-![Streak](https://streak-stats.demolab.com?user=specyfikation&theme=dark&hide_border=true&background=0D1117&ring=00FF41&fire=FF003C&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&stroke=00FF4133)
+![Streak](https://streak-stats.demolab.com?user=specyxoxo&theme=dark&hide_border=true&background=0D1117&ring=00FF41&fire=FF003C&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&stroke=00FF4133)
 
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=specyfikation&bg_color=0D1117&color=FFFFFF&line=00FF41&point=FF003C&area_color=00FF4133&area=true&hide_border=true&custom_title=contribution.graph+--30d)
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=specyxoxo&bg_color=0D1117&color=FFFFFF&line=00FF41&point=FF003C&area_color=00FF4133&area=true&hide_border=true&custom_title=contribution.graph+--30d)
 
 </div>
 
@@ -77,14 +77,14 @@ print(Developer().connect())
 
 ```
 ╔══════════════════════════════════════════════╗
-║  specyfikation@github ~ $ █                  ║
+║  specyxoxo@github ~ $ █                  ║
 ║                                              ║
 ║  >> open to collabs & wild projects          ║
-║  >> ping me anytime  @specyfikation          ║
+║  >> ping me anytime  @specyxoxo          ║
 ║  >> [CONNECTION OPEN]  ░░░░░░░░░░ 100%       ║
 ╚══════════════════════════════════════════════╝
 ```
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=specyfikation.specyfikation&color=00FF41&labelColor=0D1117&label=VISITORS&logo=github)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=specyxoxo.specyxoxo&color=00FF41&labelColor=0D1117&label=VISITORS&logo=github)
 
 </div>
