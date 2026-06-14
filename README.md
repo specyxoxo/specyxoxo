@@ -81,7 +81,7 @@ print(Developer().connect())
 ║                                              ║
 ║  >> open to collabs & wild projects          ║
 ║  >> ping me anytime  @specyxoxo              ║
-║                                              ║     ║
+║                                              ║
 ║  >> [CONNECTION OPEN]  ░░░░░░░░░░ 100%       ║
 ╚══════════════════════════════════════════════╝
 ```
