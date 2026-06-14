@@ -77,10 +77,11 @@ print(Developer().connect())
 
 ```
 ╔══════════════════════════════════════════════╗
-║  specyxoxo@github ~ $ █                  ║
+║  specyxoxo@github ~ $ █                      ║
 ║                                              ║
 ║  >> open to collabs & wild projects          ║
-║  >> ping me anytime  @specyxoxo          ║
+║  >> ping me anytime  @specyxoxo              ║
+║                                              ║     ║
 ║  >> [CONNECTION OPEN]  ░░░░░░░░░░ 100%       ║
 ╚══════════════════════════════════════════════╝
 ```
